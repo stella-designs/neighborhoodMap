@@ -6,6 +6,8 @@ Single page application featuring a map of Seattle. Map includs highlighted loca
 
 ## Link
 
+[Seattle Map](https://websiteartist.github.io/neighborhoodMap/)
+
 ## Instructions
 
 ## Resources 

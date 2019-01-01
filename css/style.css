@@ -22,3 +22,13 @@ body {
     text-align: left;
     width: 340px
 }
+
+.container {
+    height: 100%;
+    position: relative;
+}
+
+#hide-listings,
+#show-listings {
+    width: 40%;
+}
